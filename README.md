@@ -94,7 +94,7 @@ For this project, all you need to do to run your Point code on CLion is to list 
 
 6.  Run the generated program:
 
-<pre>  ./PA1</pre>
+<pre>  ./pa1</pre>
 
 In CLion, you first have to build (Run-->Build) and then run (Run-->Run 'PA1') your project. Any output will appear in the built-in console.
 
