@@ -44,7 +44,7 @@ Point myOtherPoint(5, 3); // Calls two-argument constructor Point::Point(double,
 
 ### Your Task
 
-1.  Fork the [Github repository for CSCI 2312 PAs](https://github.com/ivogeorg/ucd-csci-2312). Then clone it to your local development environment (e.g. laptop). In a subdirectory, called PA1 you will find the Point.h and Point.cpp files for the 2D Point class.
+1.  Fork the [Github repository for CSCI 2312 PA1](https://github.com/ivogeorg/ucd-csci2312-pa1). Then clone it to your local development environment (e.g. laptop). You will find the Point.h and Point.cpp files for the 2D Point class, along with a skeleton driver file pa1.cpp with barely any code in it.
 
 2.  Change the <tt>Point</tt> class to represent points in three dimensions. Make sure to update the comments to match this change!
 
@@ -116,8 +116,10 @@ In software-engineering parlance, these degenerate cases are called "edge cases"
 
 ### Grading
 
-An autograding script will test your class on a variety of inputs and assign a grade based on the number of correct outputs. (E.g. if you get 3 out of 6 test cases correct, your correctness score will be 50%). The correctness score will count for 67% of your overall grade. In addition, your code will be evaluated for style (??? GIVE EXAMPLES ???). Style will be evaluated on a three-point system (1-bad, 2-good, 3-excellent) and the style grade will count for the remaining 33% of your grade. 
+An autograding script will test your class on a variety of inputs and assign a grade based on the number of correct outputs. (E.g. if you get 3 out of 6 test cases correct, your correctness score will be 50%). The correctness score will count for 67% of your overall grade. In addition, your code will be evaluated for style (comments, separate h and cpp files, etc). We will say more about style in lecture. Style will be evaluated on a three-point system (1-bad, 2-ok, 3-excellent) and the style grade will count for the remaining 33% of your grade. 
 
 * * *
 
-<font size="-1">ACKNOWLEDGEMENT: Modelled after CS11 Lab 1 at Caltech. Some content Copyright (C) 2004-2010, California Institute of Technology.</font>
+<font size="-1">ACKNOWLEDGEMENT: Modelled after CS11 Lab 1 at Caltech.</font>
+
+<font size="-1">Some content Copyright (C) 2004-2010, California Institute of Technology.</font>
