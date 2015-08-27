@@ -54,7 +54,7 @@ You will probably find a square-root function useful for this! The C standard li
 
 If you were programming in C, you would
 ```c++
-#include <math.h></pre>
+#include <math.h>
 ```
 but in C++ you say
 ```c++
