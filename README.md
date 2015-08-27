@@ -54,7 +54,7 @@ You will probably find a square-root function useful for this! The C standard li
 
 If you were programming in C, you would <tt>#include <math.h></tt>, but in C++ you say <tt>#include <cmath></tt>. (This means, "Include the C Math header.") And then you are all set.
 
-4.  Create a new source file <tt>PA1.cpp</tt> and implement two functions:
+4.  Create a new source file <tt>pa1.cpp</tt> and implement two functions:
 
 *   <tt>double computeArea(Point &a, Point &b, Point &c)</tt>
 
@@ -70,7 +70,7 @@ In C++, you don't have to declare all variables at the top of a block; you can i
 
 5.  Compile these sources together like so:
 
-<pre>  g++ -Wall lab1.cc Point.cc -o pa1</pre>
+<pre>  g++ -Wall lab1.cpp Point.cpp -o pa1</pre>
 
 Note:
 *   <tt>g++</tt> is the GNU C++ compiler.
